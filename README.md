@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalkmiecik&label=Profile%20views&color=0e75b6&style=flat" alt="michalkmiecik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michalkmiecik" alt="michalkmiecik" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/michal_sucharek" target="blank"><img src="https://img.shields.io/twitter/follow/michal_sucharek?logo=twitter&style=for-the-badge" alt="michal_sucharek" /></a> </p>
 
 - 🌱 I’m currently learning **SQL, C# and Python**
